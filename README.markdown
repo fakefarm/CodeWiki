@@ -1,5 +1,5 @@
 # Code Wiki App
-A document to build that I can develop my skills and document them along the way. A personal sandbox to focus on developing my own skills
+An app to develop my skills and document them along the way. A personal sandbox to focus on developing my own skills
 
 ## Components
 
