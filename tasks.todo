@@ -4,4 +4,10 @@
 
  ☐ git repo
  ☐ mockup
- ☐
+ ☐ configure rails to work with haml & rspec
+
+ Adding rspec:
+ http://www.rubyinside.com/how-to-rails-3-and-rspec-2-4336.html
+
+ Adding Haml:
+http://stackoverflow.com/questions/99211/how-do-i-get-haml-to-work-with-rails

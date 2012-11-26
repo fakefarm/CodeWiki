@@ -30,7 +30,7 @@ Links will be references to outside content that I want to access at another tim
 ## Subjects
 
 ### Languages & Frameworks
-- HTML, CSS, JavaScript, JQuery, Ruby, Rails, Backbone, Node, TDD
+- HTML, CSS, JavaScript, JQuery, Ruby, Rails, Backbone, Node, TDD, RSPec
 
 ### Tools
 - Unix, Sublime, RegEx
